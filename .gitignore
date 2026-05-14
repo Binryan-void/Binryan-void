@@ -1,4 +1,3 @@
-COFB/
-calculadoras/
-env/
-golden/
+*
+!.gitignore
+!README.md
