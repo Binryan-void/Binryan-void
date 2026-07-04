@@ -15,4 +15,4 @@ I love minimalistic tools and building things from the terminal
 - Developing some proyects on Python and C.
 - Learning C
 
-*I very love the terminal and minimalista embrioments*
+*I very love the terminal and minimalistic embrioments*
